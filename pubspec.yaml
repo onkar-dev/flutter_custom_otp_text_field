@@ -2,7 +2,7 @@
 name: flutter_otp_text_field
 description: OTP TextField for Flutter.
 version: 0.0.1
-homepage:
+homepage: https://github.com/onkar-dev/flutter_otp_text_field.git
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
