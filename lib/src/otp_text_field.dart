@@ -1,12 +1,11 @@
-import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import 'otp_text.dart';
 
-class FlutterOtpTextField extends StatelessWidget {
-  FlutterOtpTextField({
+class FlutterCustomOtpTextField extends StatelessWidget {
+  FlutterCustomOtpTextField({
     Key? key,
     this.enabled = true,
     this.controller,
